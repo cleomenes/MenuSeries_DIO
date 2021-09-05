@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CadastroSeries.Enum
+namespace CadastroSeries
 {
     public enum Genero
     {
